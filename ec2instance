@@ -1,6 +1,5 @@
 
 # AWS playbook
-
 ---
 
 - hosts: localhost
