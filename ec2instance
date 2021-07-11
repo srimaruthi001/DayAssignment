@@ -31,8 +31,6 @@
         loop: "{{ result.instances }}"
 
       tags: always
-
-
     - name: Provisioning EC2 instances
       block:
 
